@@ -11,5 +11,5 @@ jobs:
         uses: leolanger/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: https://gist.github.com/matchai/a3a257f8e707a257604c16e5a4572de6
+          GIST_ID: https://gist.github.com/leolanger/a3a257f8e707a257604c16e5a4572de6
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
