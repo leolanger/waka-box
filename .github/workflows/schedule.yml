@@ -11,5 +11,5 @@ jobs:
         uses: raptazure/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: https://gist.github.com/leolanger/a3a257f8e707a257604c16e5a4572de6
+          GIST_ID: https://gist.github.com/leolanger/79a252249c9f5c3d7a4ade895a532617
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
